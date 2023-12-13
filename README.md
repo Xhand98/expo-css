@@ -1,1 +1,3 @@
 # expo-css
+.[!INFO]
+PINGA
