@@ -1,4 +1,4 @@
 # expo-css
-> [!SIGUIENTE POR AGREGAR]  
+> [!NOTE]  
 > Un host por medio de GitHub
 
