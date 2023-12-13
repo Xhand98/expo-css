@@ -1,3 +1,3 @@
 # expo-css
-.[!INFO]
+[!INFO]
 PINGA
